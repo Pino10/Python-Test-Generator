@@ -1,0 +1,5 @@
+astroid>=2.14.2
+black>=23.3.0
+coverage>=7.2.3
+pytest>=7.3.1
+asyncio>=3.4.3
